@@ -1,4 +1,6 @@
-# ⚡ Universal Unit Converter
+# Intern ID : CITS1699
+
+#  Unit Converter Tool
 
 A modern, feature-rich **Unit Converter desktop app** built with Python and Tkinter.  
 Uses the **Base-Unit Algorithm**: converts input → base unit → target unit for maximum accuracy and scalability.
